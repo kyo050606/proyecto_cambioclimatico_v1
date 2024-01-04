@@ -5,3 +5,4 @@ Lluvia de ideas:
 - cuantos autos hay en la calle
 - ver porcentajes de relacion entre la cantidad de autos, camiones, y bicicletas que hay en una calle
 - juego interactivo que eduque a las personas acerca del cambio climatico
+- un software que aporte información sobre el cambio climático y las acciones que las personas pueden tomar para combatirlo.
